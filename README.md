@@ -73,8 +73,6 @@ Principais princípios:
 
 
 ### 🎮 Jira / Trello  
-**JIRA**
-O Jira permite categorizar, priorizar e atribuir itens aos membros, reduzindo o tempo gasto com o gerenciamento. Ou seja, é mais tempo fazendo um trabalho de verdade. Os itens do Jira rastreiam trabalhos específicos e os dados relevantes deles, oferecendo uma fonte única de informações.
+**JIRA**: O Jira permite categorizar, priorizar e atribuir itens aos membros, reduzindo o tempo gasto com o gerenciamento. Ou seja, é mais tempo fazendo um trabalho de verdade. Os itens do Jira rastreiam trabalhos específicos e os dados relevantes deles, oferecendo uma fonte única de informações.
 
-**TRELLO**
-O Trello oferece muitos recursos que ajudam na organização e na execução das tarefas. Por exemplo, é possível criar cartões no Trello, e em cada cartão é possível adicionar diversos itens, como checklist, prazos e anexos, incluindo fotos, vídeos e documentos armazenados no computador ou na nuvem.
+**TRELLO**: O Trello oferece muitos recursos que ajudam na organização e na execução das tarefas. Por exemplo, é possível criar cartões no Trello, e em cada cartão é possível adicionar diversos itens, como checklist, prazos e anexos, incluindo fotos, vídeos e documentos armazenados no computador ou na nuvem.
